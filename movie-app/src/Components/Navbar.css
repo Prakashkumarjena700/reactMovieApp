@@ -1,0 +1,24 @@
+.navBar {
+    display: flex;
+    gap: 40%;
+    padding: 20px;
+    padding-left: 50px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    background-color: aquamarine;
+    /* background-image: url('https://i.pinimg.com/originals/b7/4b/2d/b74b2dfeca58f0955c51876c24fcf227.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.navBar a {
+    text-decoration: none;
+    /* color: white; */
+}
+
+.navBar a:hover {
+    color: gray;
+}
